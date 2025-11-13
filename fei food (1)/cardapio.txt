@@ -1,0 +1,9 @@
+Pizza,Moda-da-casa,R$,40, 1
+Pizza,Marguerita,R$,40, 2
+Pizza,Mussarela,R$,40, 3
+Pizza,Bauru,R$,40, 4
+Pizza,De-Calabresa,R$,40, 5
+Pizza,Calacatu,R$,40, 6
+Pizza,Baiana,R$,40, 7
+Pizza,Portuguesa,R$,40, 8
+Pizza,Carne-Seca,R$,40, 9

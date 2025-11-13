@@ -1,0 +1,4 @@
+Pizza,de,Mussarela,30,Id:, 3
+Pizza,de,Bauru,35,Id:, 4
+Pizza,de,Mussarela,30,Id:, 3
+Pizza,de,Marguerita,40,Id:, 2

@@ -1,0 +1,4 @@
+ID Pedido: 5177, Avaliaï¿½ï¿½o: 2, Comentï¿½rio: blablabla
+ID Pedido: 5177, Avaliaï¿½ï¿½o: 2, Comentï¿½rio: ruim
+ID Pedido: 79, Avaliação: 6, Comentário: gggggggggggggggg
+ID Pedido: 79, Avaliação: 5, Comentário: jbbbjbjbjb
